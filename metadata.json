@@ -1,0 +1,8 @@
+{
+  "name": "Student Portfolio",
+  "description": "Student portfolio focused on academic and career progress",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
