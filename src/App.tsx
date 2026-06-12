@@ -64,7 +64,7 @@ export default function App() {
 
   const navItems: { key: TabType; label: string }[] = [
     { key: 'home', label: '홈' },
-    { key: 'career', label: '진로' },
+    { key: 'career', label: '포트폴리오' },
     { key: 'reading', label: '독서활동' },
     { key: 'retro', label: '레트로게임' },
     { key: 'meal', label: '급식 도우미' },
